@@ -1,4 +1,4 @@
-# SyntaxHighlighter v4
+# TestBox Syntax Highlighter based on SyntaxHighlighter v4
 
 [![GratiPay](https://img.shields.io/gratipay/user/alexgorbatchev.svg)](https://gratipay.com/alexgorbatchev/)
 [![Build Status](https://travis-ci.org/syntaxhighlighter/theme-swift.svg)](https://travis-ci.org/syntaxhighlighter/syntaxhighlighter)
@@ -45,4 +45,3 @@ MIT
 [Building]: https://github.com/syntaxhighlighter/syntaxhighlighter/wiki/Building
 [Usage]: https://github.com/syntaxhighlighter/syntaxhighlighter/wiki/Usage
 [Caveats]: https://github.com/syntaxhighlighter/syntaxhighlighter/wiki/Caveats
-# TestBox Syntax Highlighter
